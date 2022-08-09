@@ -1,0 +1,2 @@
+D:\desktop\学习资料\vs\Project5\x64\Debug\Project5.exe
+D:\desktop\学习资料\vs\Project5\x64\Debug\Project5.pdb

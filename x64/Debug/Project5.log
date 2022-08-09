@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\desktop\学习资料\vs\Project5\main.cpp(37,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\desktop\学习资料\vs\Project5\main.cpp(44,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\desktop\学习资料\vs\Project5\main.cpp(88,13): warning C4326: “main”的返回类型应为“int”而非“void”
+  Project5.vcxproj -> D:\desktop\学习资料\vs\Project5\x64\Debug\Project5.exe
